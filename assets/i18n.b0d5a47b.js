@@ -1,0 +1,1 @@
+import{b as s}from"./index.7b556ff3.js";import{c as r}from"./vue-i18n.d5518d49.js";import{m}from"./index.8e8f3c06.js";var i=s(async({app:a})=>{var o;const e=(o=localStorage.getItem("locale"))!=null?o:"en-US",t=r({locale:e,messages:m});a.use(t)});export{i as default};
